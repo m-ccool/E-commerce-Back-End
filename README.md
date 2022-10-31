@@ -22,10 +22,12 @@
 ## Installation
 * requires NPM and Node.js and aabove listed NPM packages
 
-To deploy app locally, please run (cmd) "npm install", "npm start run" to view the local dev build
+To deploy app locally, please run (cmd) 
+`npm install`, `npm start run` 
 
 ## Usage
-To deploy "production" version of the app, create by running (cmd) "npm build", "npm run build"
+To deploy "production" version of the app, run 
+`npm build`, `npm run build`
 
 ## License
 n/a
